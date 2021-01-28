@@ -1,0 +1,182 @@
+/**imagenes**/
+.logo {
+  height: 100px;
+  width: auto;
+  position: absolute;
+  top: 90px;
+  left: 50px; }
+
+.encabezado {
+  background-image: url("../images/tai.jpg");
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 100%;
+  background-size: 100% 100%; }
+
+.preparativos__img {
+  height: 400px;
+  width: auto;
+  padding: 20px;
+  position: absolute;
+  right: 20px;
+  top: 95px; }
+
+.form__img {
+  height: 350px;
+  width: auto;
+  padding: 30px; }
+
+.img__paises {
+  height: 350px;
+  width: auto;
+  padding: 70px; }
+
+.img__paisestall {
+  height: 500px;
+  width: auto;
+  padding: 70px; }
+
+.din__img {
+  height: 150px;
+  width: auto; }
+
+.din__convertor {
+  height: 300px;
+  width: auto;
+  padding: 30px; }
+
+.tour__link {
+  height: 300px;
+  width: auto;
+  margin-top: 20px;
+  margin-left: 30px; }
+
+.card {
+  padding: 5px;
+  border: black solid 1px;
+  margin: 10px;
+  transition: width 2s;
+  width: 18rem; }
+
+.card:hover {
+  transition: width 20rem; }
+
+/**tamanos**/
+.menu {
+  background-color: black;
+  padding: 10px;
+  color: whitesmoke; }
+
+.carousel {
+  margin-top: 40px;
+  padding: 5px; }
+
+.textoIndex {
+  padding-right: 30px;
+  padding-bottom: 50px; }
+
+.video {
+  height: auto;
+  width: 320px; }
+
+.footer {
+  background-color: black;
+  background-size: 100% 100%;
+  height: 170px;
+  width: 100%; }
+
+.footer__txt {
+  margin-left: 100px;
+  position: relative;
+  top: 50px; }
+
+.footer__icono {
+  height: 30px;
+  width: auto;
+  position: relative;
+  left: 20px;
+  top: 80px; }
+
+.form__txt {
+  margin-left: 30px;
+  margin-top: 50px; }
+
+.din__texto {
+  margin-top: 50px; }
+
+.linkConvertor {
+  height: 200px;
+  width: auto; }
+
+.tour__paises {
+  margin-left: 30px; }
+
+.tour__subtitulo {
+  margin: 30px; }
+
+.preparativos__texto {
+  padding: 20px; }
+
+/**tipografia**/
+h1 {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 110px;
+  margin-left: 200px; }
+
+a {
+  color: whitesmoke;
+  font-size: 1rem;
+  margin-left: 50px; }
+
+.navbar-brand {
+  color: whitesmoke !important;
+  font-size: 1rem; }
+
+.nav-link {
+  color: whitesmoke !important; }
+
+h2 {
+  font-size: 1.5rem;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 20px;
+  margin-top: 30px; }
+
+.tour__titulo {
+  margin-left: 30px; }
+
+h3 {
+  font-size: 1.2rem;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 20px;
+  margin-top: 20px; }
+
+h4 {
+  font-size: 1.2rem;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  margin-left: 30px;
+  margin-top: 20px; }
+
+p {
+  font-size: 1rem;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  margin-left: 10px;
+  margin-top: 30px; }
+
+h5 {
+  font-size: 1rem;
+  color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 30px;
+  margin-top: 50px; }
+
+.card-title {
+  color: black;
+  font-size: 1.5rem; }
